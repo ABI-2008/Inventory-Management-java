@@ -1,0 +1,19 @@
+2026-10-04 15:51:10.089: [INFO] CurrentProfilePath: D:\Inventory\inventorymanagement\src\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-04 15:51:10.089: [INFO] Profiles total count: 1
+2026-10-04 15:51:10.089: [INFO] Profile: name=Profile 1 path=D:\Inventory\inventorymanagement\src\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-10-04 15:51:10.089: [INFO] LastUsedProfileDir: D:\Inventory\inventorymanagement\src\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-04 15:51:10.089: [INFO] OnDoneLoading sync enabled: 0
+2026-10-04 15:51:10.089: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-04 15:51:10.089: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-04 15:51:10.089: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-04 15:51:13.575: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-04 15:51:19.320: [INFO] CurrentProfilePath: D:\Inventory\inventorymanagement\src\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-04 15:51:19.320: [INFO] Profiles total count: 1
+2026-10-04 15:51:19.320: [INFO] Profile: name=Profile 1 path=D:\Inventory\inventorymanagement\src\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-04T15:51:10.384Z
+2026-10-04 15:51:19.320: [INFO] LastUsedProfileDir: D:\Inventory\inventorymanagement\src\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-04 15:51:19.320: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Inventory\inventorymanagement\src\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-04T15:51:10.384Z
+2026-10-04 15:51:19.320: [INFO] OnDoneLoading sync enabled: 0
+2026-10-04 15:51:19.320: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-04 15:51:19.320: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-04 15:51:19.320: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-04 15:51:31.588: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

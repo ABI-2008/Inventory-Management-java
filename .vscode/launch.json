@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Inventory App",
+            "request": "launch",
+            "mainClass": "inventorymanagement.app.Main",
+            "classPaths": [
+                "${workspaceFolder}/out"
+            ],
+            "console": "integratedTerminal"
+        }
+    ]
+}

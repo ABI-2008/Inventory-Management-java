@@ -1,0 +1,19 @@
+2026-10-04 16:04:51.547: [INFO] CurrentProfilePath: D:\Inventory\inventorymanagement\src\inventorymanagement\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-04 16:04:51.547: [INFO] Profiles total count: 1
+2026-10-04 16:04:51.547: [INFO] Profile: name=Profile 1 path=D:\Inventory\inventorymanagement\src\inventorymanagement\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-10-04 16:04:51.547: [INFO] LastUsedProfileDir: D:\Inventory\inventorymanagement\src\inventorymanagement\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-04 16:04:51.547: [INFO] OnDoneLoading sync enabled: 0
+2026-10-04 16:04:51.547: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-04 16:04:51.547: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-04 16:04:51.547: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-04 16:04:54.389: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-04 16:05:00.895: [INFO] CurrentProfilePath: D:\Inventory\inventorymanagement\src\inventorymanagement\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-04 16:05:00.895: [INFO] Profiles total count: 1
+2026-10-04 16:05:00.896: [INFO] Profile: name=Profile 1 path=D:\Inventory\inventorymanagement\src\inventorymanagement\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-04T16:04:51.925Z
+2026-10-04 16:05:00.896: [INFO] LastUsedProfileDir: D:\Inventory\inventorymanagement\src\inventorymanagement\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-04 16:05:00.896: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=D:\Inventory\inventorymanagement\src\inventorymanagement\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-04T16:04:51.925Z
+2026-10-04 16:05:00.896: [INFO] OnDoneLoading sync enabled: 0
+2026-10-04 16:05:00.896: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-04 16:05:00.896: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-04 16:05:00.896: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-04 16:05:33.489: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

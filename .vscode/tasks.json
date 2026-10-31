@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Inventory App",
+			"type": "shell",
+			"command": "javac -d out $(Get-ChildItem -Recurse -Filter *.java | ForEach-Object { $_.FullName }); java -cp out inventorymanagement.app.Main",
+			"args": [],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
